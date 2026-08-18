@@ -1,0 +1,7 @@
+Objects/
+Listings/
+*.bak
+*.d
+*.o
+*.axf
+*.map
