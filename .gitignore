@@ -13,3 +13,5 @@ Listings/
 *.crf
 *.lst
 *.sct
+*.uvopt
+*.uvgui*
