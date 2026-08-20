@@ -415,6 +415,36 @@
               <FileType>1</FileType>
               <FilePath>.\main.c</FilePath>
             </File>
+            <File>
+              <FileName>pin_configuration.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\config\pin_configuration.h</FilePath>
+            </File>
+            <File>
+              <FileName>led.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\drivers\led.c</FilePath>
+            </File>
+            <File>
+              <FileName>led.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\drivers\led.h</FilePath>
+            </File>
+            <File>
+              <FileName>types.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\types.h</FilePath>
+            </File>
+            <File>
+              <FileName>defines.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\defines.h</FilePath>
+            </File>
+            <File>
+              <FileName>delay.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\delay.c</FilePath>
+            </File>
           </Files>
         </Group>
       </Groups>

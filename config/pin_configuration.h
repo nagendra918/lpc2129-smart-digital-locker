@@ -1,11 +1,12 @@
-//pin_configuration
+/* pin_configuration */
 
 /* LED */
 #define LED_PORT      1
-#define LED_RED       19
-#define LED_GREEN     20
-#define LED_YELLOW    21
-#define LED_BLUE      22
+#define LEDs          20
+#define LED_RED       20
+#define LED_GREEN     22
+#define LED_YELLOW    22
+#define LED_BLUE      23
 
 /* BUZZER */
 #define BUZZER_PORT   1
